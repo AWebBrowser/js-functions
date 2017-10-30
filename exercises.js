@@ -327,3 +327,4 @@ function throwParty(variable) {
 var canParty =  throwParty(13);
 console.log(canParty);
 //END ANSWER KEY//
+// Note: I don't know if i made things harder or not :) //
